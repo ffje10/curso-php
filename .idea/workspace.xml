@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be7fbaf2-bef7-4124-8feb-75be33d295ad" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\je\curso-php\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\je\curso-php\.idea\curso-php.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\je\curso-php\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\je\curso-php\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\je\curso-php\.idea\vcs.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="C:\Users\je\curso-php\.idea\workspace.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/programa.php.phtml" afterPath="$PROJECT_DIR$/programa.php.phtml" />
     </list>
     <ignored path="curso-php.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,8 +28,8 @@
       <file leaf-file-name="programa.php.phtml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/programa.php.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.35111877">
+              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -43,6 +39,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/programa.php.phtml" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsGulpfileManager">
@@ -196,8 +199,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/programa.php.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.35111877">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
           <folding />
         </state>
       </provider>
