@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>numero pares e ímpares - curso php -excript</title>
+</head>
+<body>
+
+
+  <?php
+      if(isset($_POST["num"])) {
+          echo $_POST["num"];
+          echo"<br>";
+
+          $num = $_POST["num"];
+
+          if($num % 2 == 0){
+              echo "o numero informado e par";
+          }
+          else{
+              echo "o numero informado e impar";
+          }
+      }
+
+   ?>
+
+
+
+
+<form method="POST">
+    <input type="text" name="num"/>
+    <input type="submit">
+
+
+</form>
+
+
+
+
+
+
+
+</body>
+
+
+
+
+</html>
