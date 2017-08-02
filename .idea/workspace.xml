@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be7fbaf2-bef7-4124-8feb-75be33d295ad" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\je\curso-php\.idea\workspace.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/programa.php.phtml" afterPath="$PROJECT_DIR$/programa.php.phtml" />
     </list>
     <ignored path="curso-php.iws" />
